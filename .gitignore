@@ -1,0 +1,17 @@
+# Build files
+*.apk
+*.ipa
+build/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# Dependencies
+node_modules/
+Pods/
+
+# OS files
+.DS_Store
+Thumbs.db
